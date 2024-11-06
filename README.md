@@ -3,7 +3,7 @@
 ## Overview
 **Lost Knight** is a challenging 2D platformer game developed from scratch as a solo project for my highschool atestate using **Unity**. Players embark on an adventurous journey through five intricately designed levels filled with obstacles, enemies, and hidden treasures.
 
-![Logo](https://imgur.com/a/nIGlN9P)
+![Logo](./assets/Screenshot_1.png)
 
 ## Features
 - **Five Challenging Levels**: Each level is uniquely designed to test player's skills and reflexes, each with 3 carefully placed secret Black Skulls.
