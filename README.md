@@ -18,7 +18,9 @@
   
  ![Enemy](./assets/Screenshot_2.png)
  
-- **Game Flow**: Simple Menu, 5 chained levels and a credit scene.
+- **Game Flow**: Simple Menu, 5 chained levels and a credit scene. Here are 2 images from levels 3 and 4, respectively.
+  ![Level3](./assets/cave.png)
+  ![Level4](./assets/castle.png)
 
 ## Installation
 1. Clone the repository:
