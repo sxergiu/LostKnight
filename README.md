@@ -1,4 +1,5 @@
 # Lost Knight
+Available at: https://sxergiu.itch.io/lost-knight
 
 ## Overview
 **Lost Knight** is a challenging 2D platformer game developed from scratch as a solo project for my highschool atestate using **Unity**. Players embark on an adventurous journey through five intricately designed levels filled with obstacles, enemies, and hidden treasures.
@@ -18,8 +19,12 @@
   
  ![Enemy](./assets/Screenshot_2.png)
  
-- **Game Flow**: Simple Menu, 5 chained levels and a credit scene. Here are 2 images from levels 3 and 4, respectively.
+- **Game Flow**: Simple Menu, 5 chained levels and a credit scene.
+    Starting from a simpler, tutorial level The Lost Knight advances into more dangerous territories with diverse scenery.
+    In the second level he escapes The Underground Tomb, climbing atop The Church, only to get thrown back underground in the third level.
   ![Level3](./assets/cave.png)
+    After climbing out of The Caves and reaching The Snow Mountains, The Knight becomes cornered in The Dark Castle, having
+    to escape the Darkling that have been standing in his way all his journey.
   ![Level4](./assets/castle.png)
 
 ## Installation
